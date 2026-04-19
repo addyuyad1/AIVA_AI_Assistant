@@ -3,3 +3,10 @@ uvicorn
 python-dotenv
 groq
 dotenv
+langchain 
+chromadb 
+sentence-transformers
+redis
+langchain-community
+huggingface_hub
+langchain-huggingface
